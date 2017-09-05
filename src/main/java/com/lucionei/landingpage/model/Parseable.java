@@ -1,4 +1,4 @@
-package com.lucionei.chamadostecnicos.model;
+package com.lucionei.landingpage.model;
 
 import java.util.Map;
 

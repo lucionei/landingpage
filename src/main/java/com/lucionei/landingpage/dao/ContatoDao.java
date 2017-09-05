@@ -1,6 +1,6 @@
-package com.lucionei.chamadostecnicos.dao;
+package com.lucionei.landingpage.dao;
 
-import com.lucionei.chamadostecnicos.model.Contato;
+import com.lucionei.landingpage.model.Contato;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;

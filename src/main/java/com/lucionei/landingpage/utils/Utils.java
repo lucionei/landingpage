@@ -1,4 +1,4 @@
-package com.lucionei.chamadostecnicos.utils;
+package com.lucionei.landingpage.utils;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

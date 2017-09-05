@@ -1,4 +1,4 @@
-package com.lucionei.chamadostecnicos.dao;
+package com.lucionei.landingpage.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

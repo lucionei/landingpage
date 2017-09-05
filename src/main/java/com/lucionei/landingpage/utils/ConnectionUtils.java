@@ -1,4 +1,4 @@
-package com.lucionei.chamadostecnicos.utils;
+package com.lucionei.landingpage.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,7 +1,7 @@
-package com.lucionei.chamadostecnicos.dao;
+package com.lucionei.landingpage.dao;
 
-import com.lucionei.chamadostecnicos.utils.ConnectionUtils;
-import com.lucionei.chamadostecnicos.utils.Utils;
+import com.lucionei.landingpage.utils.ConnectionUtils;
+import com.lucionei.landingpage.utils.Utils;
 import java.math.BigDecimal;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

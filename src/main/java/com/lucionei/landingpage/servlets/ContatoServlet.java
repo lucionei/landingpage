@@ -1,8 +1,8 @@
-package com.lucionei.chamadostecnicos.servlets;
+package com.lucionei.landingpage.servlets;
 
-import com.lucionei.chamadostecnicos.dao.ContatoDao;
-import com.lucionei.chamadostecnicos.model.Contato;
-import com.lucionei.chamadostecnicos.utils.Utils;
+import com.lucionei.landingpage.dao.ContatoDao;
+import com.lucionei.landingpage.model.Contato;
+import com.lucionei.landingpage.utils.Utils;
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
